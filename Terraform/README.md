@@ -1,8 +1,9 @@
 # Terraform
 
-### Ezzio
+## Presenter: Ezzio
+## Date: 04/15/2022
 
-Terraform presentation with Ezzio on 15/04/2022 - Click in the link [Tech Talk](https://drive.google.com/file/d/1o7qEwbpjJPp9bBPQ1y5aPo9bsM0CvTjd/view?usp=sharing)
+Terraform presentation with Ezzio on 04/15/2022 - Click in the link [Tech Talk](https://drive.google.com/file/d/1o7qEwbpjJPp9bBPQ1y5aPo9bsM0CvTjd/view?usp=sharing)
 
 ## VPC
 ```
