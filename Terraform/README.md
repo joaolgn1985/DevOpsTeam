@@ -64,3 +64,23 @@ module "iam_assumable_role" {
   number_of_custom_role_policy_arns = 2
 }
 ```
+
+# Command Line Terraform
+
+- terraform init
+
+- terraform plan -out bla
+
+- terraform apply "bla"
+
+- terraform plan -destroy
+
+- terraform destroy
+
+- terraform validate
+
+- terraform state pull >> file.tfstate ou push
+
+- terraform plan -out plan -lock=false -refresh= false
+
+- terraform fmt format -check -diff
